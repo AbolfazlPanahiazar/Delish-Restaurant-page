@@ -20,6 +20,8 @@ $font-nastaliq: Nastaliq, Tahoma;
 @font-face {
     font-family: Nastaliq;
     src: url(../fonts/IranNastaliq.ttf) format("ttf");
+    src: url(../fonts/IranNastaliq.woff) format("woff"),
+        url(../fonts/IranNastaliq.eot) format("eot");
     font-weight: normal;
 }
 
