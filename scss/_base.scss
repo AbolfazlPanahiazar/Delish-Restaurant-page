@@ -17,13 +17,6 @@ $font-nastaliq: Sahel, Tahoma;
   font-weight: normal;
 }
 
-@font-face {
-  font-family: Nastaliq;
-  src: url(../fonts/IranNastaliq.ttf) format("ttf");
-  src: url(../fonts/IranNastaliq.woff) format("woff"), url(../fonts/IranNastaliq.eot) format("eot");
-  font-weight: normal;
-}
-
 @mixin flexLayout {
   display: flex;
   justify-content: center;
